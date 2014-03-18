@@ -1,0 +1,32 @@
+"Louisville", 93.070
+"Florida", 98.819
+"Arizona", 97.770
+"Kansas", 92.403
+"Virginia", 96.389
+"Michigan State", 91.368
+"Duke", 92.917
+"Wichita State", 97.900
+"Villanova", 94.720
+"Wisconsin", 92.841
+"Michigan", 95.383
+"Creighton", 88.290
+"Kentucky", 73.932
+"Ohio State", 75.306
+"UCLA", 87.076
+"Syracuse", 88.609
+"Iowa State", 81.236
+"Oklahoma State", 52.013
+"North Carolina", 67.964
+"Baylor", 70.324
+"VCU", 76.413
+"San Diego State", 73.478
+"Connecticut", 67.301
+"Gonzaga", 47.987
+"New Mexico", 63.754
+"Oklahoma", 63.791
+"Pittsburgh", 72.428
+"Cincinnati", 58.016
+"Oregon", 64.732
+"Memphis", 55.004
+"Saint Louis", 57.693
+"Texas", 50.119
