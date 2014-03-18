@@ -14,6 +14,6 @@ for team in d:
 	outcome = random.randrange(1,100001)	
 	chance = float(d[team]) * 1000
 	if outcome < int(chance):
-		print "Take the favorite: " + str(team) + " will WIN!"
+		pass
 	else:
-		print "Ack! " + str(team) + " will LOSE!"
+		print str(team)
