@@ -23,7 +23,7 @@ def losers(d):
 
 # Ask the user how many upsets they think will happen. 
 
-upsets = raw_input("How many upsets do you think will happen?")
+upsets = raw_input("How many first-round upsets do you think will happen? ")
 
 # Run the function once.
 
